@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "type": "movie",
+    "poster": "https://res.cloudinary.com/kalgaro/image/upload/v1659086690/jul29/media/nibgj7emitg5vp6p0rm7.webp",
+    "createdAt": "2022-07-29T08:39:24.736Z",
+    "id": "243j5ckl667r875"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "type": "movie",
+    "poster": "",
+    "createdAt": "2022-07-29T08:42:27.136Z",
+    "id": "243jepcl667v4xt"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "type": "movie",
+    "poster": "",
+    "createdAt": "2022-07-29T08:42:47.045Z",
+    "id": "243jcjwl667vkau"
+  }
+]
